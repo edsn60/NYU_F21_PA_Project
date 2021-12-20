@@ -39,6 +39,6 @@ To train the detector, simply run the ```train.py```.
 
 To retrieve the data from twitter API, simply run the ```newdata.py```.
 
-To get the final prediction, simply run the ```crime_data_analyze.py```.
+To get the final prediction, simply run the ```crime_data_analyze.ipynb```.
 
 Please note that all the code takes a lot of time.
