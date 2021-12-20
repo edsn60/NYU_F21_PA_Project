@@ -1,0 +1,31 @@
+2603,2382,2381,2402,2253
+2645,2599,2636,2460,2335
+2734,2587,2555,2592,2459
+2846,2590,2463,2780,2575
+233,420,423,434,434
+2021-12-11 03:02:49 County: Bronx, Date: 20210312, Total tweets retrieved: 6597, Detected hate speech tweets: 2603
+2021-12-11 03:26:29 County: Bronx, Date: 20210326, Total tweets retrieved: 6725, Detected hate speech tweets: 2382
+2021-12-11 03:49:40 County: Bronx, Date: 20210409, Total tweets retrieved: 6719, Detected hate speech tweets: 2381
+2021-12-11 04:14:06 County: Bronx, Date: 20210423, Total tweets retrieved: 6836, Detected hate speech tweets: 2402
+2021-12-11 04:37:46 County: Bronx, Date: 20210507, Total tweets retrieved: 6799, Detected hate speech tweets: 2253
+2021-12-11 05:02:15 County: Brooklyn, Date: 20210312, Total tweets retrieved: 6768, Detected hate speech tweets: 2645
+2021-12-11 05:26:51 County: Brooklyn, Date: 20210326, Total tweets retrieved: 6952, Detected hate speech tweets: 2599
+2021-12-11 05:51:33 County: Brooklyn, Date: 20210409, Total tweets retrieved: 6912, Detected hate speech tweets: 2636
+2021-12-11 06:16:20 County: Brooklyn, Date: 20210423, Total tweets retrieved: 6935, Detected hate speech tweets: 2460
+2021-12-11 06:40:47 County: Brooklyn, Date: 20210507, Total tweets retrieved: 6956, Detected hate speech tweets: 2335
+2021-12-11 07:06:06 County: Manhattan, Date: 20210312, Total tweets retrieved: 6843, Detected hate speech tweets: 2734
+2021-12-11 07:31:12 County: Manhattan, Date: 20210326, Total tweets retrieved: 6859, Detected hate speech tweets: 2587
+2021-12-11 07:56:15 County: Manhattan, Date: 20210409, Total tweets retrieved: 6810, Detected hate speech tweets: 2555
+2021-12-11 08:21:18 County: Manhattan, Date: 20210423, Total tweets retrieved: 6890, Detected hate speech tweets: 2592
+2021-12-11 08:46:04 County: Manhattan, Date: 20210507, Total tweets retrieved: 6876, Detected hate speech tweets: 2459
+2021-12-11 09:09:47 County: Queens, Date: 20210312, Total tweets retrieved: 6746, Detected hate speech tweets: 2846
+2021-12-11 09:33:08 County: Queens, Date: 20210326, Total tweets retrieved: 6709, Detected hate speech tweets: 2590
+2021-12-11 09:56:58 County: Queens, Date: 20210409, Total tweets retrieved: 6827, Detected hate speech tweets: 2463
+2021-12-11 10:20:43 County: Queens, Date: 20210423, Total tweets retrieved: 6867, Detected hate speech tweets: 2780
+2021-12-11 10:43:35 County: Queens, Date: 20210507, Total tweets retrieved: 6890, Detected hate speech tweets: 2575
+2021-12-11 10:45:26 County: Staten Island, Date: 20210312, Total tweets retrieved: 397, Detected hate speech tweets: 233
+2021-12-11 10:48:10 County: Staten Island, Date: 20210326, Total tweets retrieved: 616, Detected hate speech tweets: 420
+2021-12-11 10:50:57 County: Staten Island, Date: 20210409, Total tweets retrieved: 631, Detected hate speech tweets: 423
+2021-12-11 10:53:57 County: Staten Island, Date: 20210423, Total tweets retrieved: 676, Detected hate speech tweets: 434
+2021-12-11 10:57:09 County: Staten Island, Date: 20210507, Total tweets retrieved: 711, Detected hate speech tweets: 434
+
